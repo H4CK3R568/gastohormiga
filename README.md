@@ -36,7 +36,7 @@
 
 ```bash
 # 1. Clona el repositorio en htdocs
-git clone https://github.com/tu-usuario/gastohormi.git C:/xampp/htdocs/gastohormi
+git clone https://github.com/tu-usuario/gastohormiga.git C:/xampp/htdocs/gastohormi
 
 # 2. Inicia Apache y MySQL desde XAMPP Control Panel
 
